@@ -5,7 +5,7 @@ This repository stores a script to convert FASTQ headers from MGI format to One 
 ## Como usar
 
 ```bash
-usage: script.py [-h] --input INPUT --output OUTPUT
+usage: mgionetrimmer.py [-h] --input INPUT --output OUTPUT
 
 Executa cutadapt e corrige headers dos arquivos FASTQ.
 
